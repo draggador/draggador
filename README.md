@@ -1,8 +1,8 @@
--  Greetings, I’m @draggador!
+-  Greetings, I’m JéJé(@draggador)!
 -  I’m interested in everything!
 -  I’m currently learning everything!
 -  I’m looking to collaborate on everything!
--  How to reach me? Through twitter/reddit!
+-  How to reach me? Through ex-twitter/reddit/e-mail!
 
 <!---
 draggador/draggador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
