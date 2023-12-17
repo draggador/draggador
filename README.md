@@ -1,3 +1,5 @@
+([Check out the main website's respository for this GitHub profile.](https://draggador.github.io/draggador/))
+
 -  Greetings, I’m JéJé(@draggador)!
 -  I’m interested in everything!
 -  I’m currently learning everything!
