@@ -1,4 +1,4 @@
-([Check out the main website's respository for this GitHub profile.](https://draggador.github.io/draggador/))
+([Check out the main respository's webpage for this GitHub profile.](https://draggador.github.io/))
 
 -  Greetings, I’m JéJé(@draggador)!
 -  I’m interested in everything!
